@@ -6,3 +6,5 @@ first reposatory edited
 
 ok - dont wory - try again
 kk
+
+the confidence i gained is on next level   
