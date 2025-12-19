@@ -14,3 +14,4 @@ no need to redeploy if want changes in deployed website just link with github an
 
 unconsistency is the part of journey and who finds that a mistake and works on removing it - will win .
 k
+ 
